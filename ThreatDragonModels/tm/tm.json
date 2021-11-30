@@ -386,8 +386,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5230087733878114,
-                    "offset": -1.2562135729109787
+                    "distance": 0.5958410440026857,
+                    "offset": -3.168688735923777
                   },
                   "attrs": {
                     "text": {
@@ -981,7 +981,10 @@
               "id": "7963f372-6b62-4e4a-ab7f-2f887102f423",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.25472844405538153,
+                    "offset": -5.637655116773488
+                  },
                   "attrs": {
                     "text": {
                       "text": "Verified",
@@ -1128,8 +1131,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.469799114295575,
-                    "offset": -18.21797865199276
+                    "distance": 0.5820624102751196,
+                    "offset": -7.798448918534291
                   },
                   "attrs": {
                     "text": {
@@ -1190,7 +1193,10 @@
               "id": "f3fd653a-f7f8-4a2d-a326-91c2809734d4",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.40859356144144815,
+                    "offset": -3.6158832943696635
+                  },
                   "attrs": {
                     "text": {
                       "text": "Requests view/amend\nproduct details",
